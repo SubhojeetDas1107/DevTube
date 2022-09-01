@@ -32,6 +32,31 @@
 
 https://user-images.githubusercontent.com/80981317/187847506-a72e2366-f874-4ce1-83f5-7b239cd8fe2a.mp4
 
+<br />
+
+## Installation
+* Clone Project on Github
+```
+git clone https://github.com/SubhojeetDas1107/DevTube.git
+```
+
+## Contribution
+Feel free to contribute!
+- Fork the [repository](https://github.com/SubhojeetDas1107/DevTube) on GitHub
+- Clone the repository in your local machine and run it using live server
+- Make your changes and commit them
+- Push your changes to the repository
+- Open a pull request
+- Wait for the pull request to be merged
+- **Thank you!** 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+
+
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SubhojeetDas1107/DevTube.svg?style=for-the-badge
