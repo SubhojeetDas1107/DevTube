@@ -17,10 +17,10 @@
   <p align="center">
   A Youtube clone specially designed for enthusiastic developers and also a guidance to students!
     <br />
-    <a href="https://github.com/SubhojeetDas1107/DevTube"><strong>View Source code »</strong></a>
+    <a href="https://subhojeetdas1107-github-devtube.netlify.app/"><strong>View Live Project »</strong></a>
     <br />
     <br />
-    <a href="https://subhojeetdas1107-github-devtube.netlify.app/">View Live Project</a>
+    <a href="https://github.com/SubhojeetDas1107/DevTube">Source Code</a>
     ·
     <a href="https://github.com/SubhojeetDas1107/DevTube/issues">Report Bug</a>
     ·
